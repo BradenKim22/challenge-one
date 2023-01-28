@@ -35,3 +35,9 @@ Follow the link for the application https://bradenkim22.github.io/challenge-one/
 ## License
 
 Refer to MIT License
+
+## Mock Up
+
+![](./assets/images/challenge1.png)
+![](./assets/images/challenge1-2.png)
+![](./assets/images/challenge1-3.png)
